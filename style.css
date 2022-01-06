@@ -26,5 +26,7 @@ section{
     color: white;
     font-weight: bold;
     border-radius: 5px;
-
+}
+h6{
+    color: plum;
 }
